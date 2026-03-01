@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niharika Mente</h1>
-<h3 align="center">Full Stack Developer & UI/UX Enthusiast</h3>
+<h3 align="center">Full Stack Developer, UI/UX Enthusiast & Open Source Contributer</h3>
 
 <p align="center">
   <em>Passionate about crafting seamless digital experiences, from architecting robust backend systems to designing intuitive user interfaces. I love turning complex ideas into functional, scalable reality.</em>
